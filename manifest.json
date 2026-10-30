@@ -1,0 +1,16 @@
+{
+  "name": "TETOVAULT - Teto é Cobertura",
+  "short_name": "TETOVAULT",
+  "description": "TETOVAULT - Teto é Cobertura - Isolamento 90/10 LTV 0% - Escritório DeFi - Simulador IL Break-Even 14 dias - Match Pool 92% - CAIXA SOL - Zero Absoluto",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#00ff88",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}

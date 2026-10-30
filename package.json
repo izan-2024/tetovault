@@ -1,0 +1,7 @@
+{
+  "name": "fase-13-final-real-no-module-v2-fixed-swap",
+  "version": "13.1.15",
+  "type": "module",
+  "description": "FASE 13 FINAL REAL NO-MODULE V2 FIXED SWAP - BASE 16:11:07+17:28:14+17:42:03 VALIDADO - SEM MODULE BRAVE OK - Clique puro - Triple Fallback Jupiter + Headers + Retry + Detailed error logging + Helius balance fixed lamports + swap error detalhado para gerar hash real - 6 cliques validados",
+  "dependencies": {}
+}
